@@ -1,0 +1,9 @@
+/dist/
+/.cache/
+__pycache__/
+*.sav
+*.log
+request.ini
+attempt-*.txt
+status.txt
+.DS_Store
